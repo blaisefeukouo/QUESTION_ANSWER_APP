@@ -1,5 +1,7 @@
 For this project, following librries need to be installed
 pip install langchain pymongo bs4 openai tiktoken gradio requests lxml argparse unstructured
+pip install langchain pymongo bs4 openai tiktoken gradio requests lxml argparse unstructured langchain-openai langchain-mongodb langchain-community
+
 
 # How to create python virtual environment
 python3 -m venv .venv
